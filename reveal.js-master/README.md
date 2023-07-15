@@ -1,6 +1,9 @@
 ## instalar
 ```bash
-git clone 
+git clone https://github.com/Sherklan12e/presentacion.git
+```
+```bash
+cd presentacion
 ```
 
 
